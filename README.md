@@ -1,7 +1,10 @@
-# Hello, world[!]
+# Hello, world
 
 I study in Netology!
 
-## Ok[!]
+## Ok!
 
 06.07.2024
+
+
+🏆
